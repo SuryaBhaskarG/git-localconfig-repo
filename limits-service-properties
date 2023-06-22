@@ -1,2 +1,3 @@
+limits-service.url=https://http://localhost:8080/limits
 limits-service.minimum=8  
 limits-service.maximum=888  
